@@ -1,0 +1,82 @@
+1631090033897	geckodriver	INFO	Listening on 127.0.0.1:63425
+1631090036922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileQ2y9qo"
+1631090037341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileQ2y9qo\\search.json.mozlz4", (void 0)))
+1631090039639	Marionette	INFO	Listening on port 63433
+1631090040133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631091762855	Marionette	INFO	Stopped listening on port 63433
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+e?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileFyfOKE\\search.json.mozlz4", (void 0)))
+1631090045862	Marionette	INFO	Listening on port 63487
+1631090046081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631091764134	Marionette	INFO	Stopped listening on port 63487
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+e?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofilercsdFF\\search.json.mozlz4", (void 0)))
+1631090051815	Marionette	INFO	Listening on port 63533
+1631090052325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631091763509	Marionette	INFO	Stopped listening on port 63533
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+e?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileUzmCeL\\search.json.mozlz4", (void 0)))
+1631090099193	Marionette	INFO	Listening on port 63614
+1631090099465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631090105518	Marionette	INFO	Stopped listening on port 63614
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631090106151	geckodriver	INFO	Listening on 127.0.0.1:63713
+1631090109189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileNwvWnF"
+1631090109539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileNwvWnF\\search.json.mozlz4", (void 0)))
+1631090111600	Marionette	INFO	Listening on port 63723
+1631090111855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631090117896	Marionette	INFO	Stopped listening on port 63723
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1631090118523	geckodriver	INFO	Listening on 127.0.0.1:63816
+1631090121650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileCEYXZj"
+1631090121992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileCEYXZj\\search.json.mozlz4", (void 0)))
+1631090123943	Marionette	INFO	Listening on port 63824
+1631090124341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631090130368	Marionette	INFO	Stopped listening on port 63824
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1631090420102	geckodriver	INFO	Listening on 127.0.0.1:61430
+1631090423109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileH2tsRj"
+1631090423453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileH2tsRj\\search.json.mozlz4", (void 0)))
+1631090425395	Marionette	INFO	Listening on port 61438
+1631090425794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631090432282	Marionette	INFO	Stopped listening on port 61438
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1631090432988	geckodriver	INFO	Listening on 127.0.0.1:61545
+1631090448388	geckodriver	INFO	Listening on 127.0.0.1:61561
+1631090451402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofile0lphpK"
+1631090451829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofile0lphpK\\search.json.mozlz4", (void 0)))
+1631090453764	Marionette	INFO	Listening on port 61569
+1631090454080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631090456610	Marionette	INFO	Stopped listening on port 61569
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631090457748	geckodriver	INFO	Listening on 127.0.0.1:61652
+1631090460741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofilefLb2eU"
+1631090461079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofilefLb2eU\\search.json.mozlz4", (void 0)))
+1631090463237	Marionette	INFO	Listening on port 61662
+1631090463387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631090465744	Marionette	INFO	Stopped listening on port 61662
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631090466709	geckodriver	INFO	Listening on 127.0.0.1:61737
+1631090469721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileMXHC9i"
+1631090470062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xie\\AppData\\Local\\Temp\\rust_mozprofileMXHC9i\\search.json.mozlz4", (void 0)))
+1631090472179	Marionette	INFO	Listening on port 61745
+1631090472427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631090474760	Marionette	INFO	Stopped listening on port 61745
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 13360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
